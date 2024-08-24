@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573158375117",
+    "project_id": "patternpulse-342b2",
+    "storage_bucket": "patternpulse-342b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573158375117:android:5f645890a0ae56f09d3384",
+        "android_client_info": {
+          "package_name": "com.example.patternpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMeIKRaJLK3EIt-ZCHI3kQSr3Hg2IWXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
